@@ -52,6 +52,10 @@ After training, you can test the model using:
 python python aicandy_flappyBird_test_romddkvc.py
 ```
 
+### Video Demo
+Youtube: [https://www.youtube.com/@aicandyvn/videos](https://youtu.be/gL8OxZYH5gA)
+
+
 ### More Information
 
 To learn more about this project, [see here](https://aicandy.vn/ung-dung-machine-learning-huan-luyen-bot-choi-flappy-bird).
